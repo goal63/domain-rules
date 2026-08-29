@@ -1,0 +1,6 @@
+# 自定义代理域名；每行一条 Mihomo classical 规则
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibllc.com
+DOMAIN-SUFFIX,ibllc.com.cn
