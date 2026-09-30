@@ -12,3 +12,18 @@ DOMAIN-SUFFIX,wsot2022.com
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 DOMAIN-SUFFIX,interactivebrokers.com.au
+
+# Cloudflare 常用官网、验证、统计与服务域名
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,one.one.one.one
+DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN-SUFFIX,cloudflare-gateway.com
+DOMAIN-SUFFIX,cloudflareclient.com
+DOMAIN-SUFFIX,cloudflarestatus.com
+DOMAIN-SUFFIX,cloudflarewarp.com
+DOMAIN-SUFFIX,warp.plus
+DOMAIN-SUFFIX,cloudflarechallenge.com
+DOMAIN-SUFFIX,cdnjs.com
