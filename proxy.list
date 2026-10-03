@@ -1,4 +1,4 @@
-# 自定义代理域名；每行一条 Mihomo classical 规则
+# 💰 金融服务域名；每行一条 Mihomo classical 规则
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,ibkr.com
