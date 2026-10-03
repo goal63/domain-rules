@@ -7,8 +7,8 @@
 | 文件 | 命中后的处理方式 |
 | --- | --- |
 | `direct.list` | 直接使用 `直连` |
-| `proxy.list` | 交给“🚀 自定义代理”策略组 |
-| `proxy2.list` | 交给“🚀 自定义代理2”策略组 |
+| `proxy.list` | 交给“💰 金融服务”策略组 |
+| `proxy2.list` | 交给“🎬 休闲娱乐”策略组 |
 
 ## Raw 地址
 
@@ -21,8 +21,8 @@
 ```yaml
 rules:
   - RULE-SET,custom_direct_domain,直连
-  - RULE-SET,custom_proxy_domain,🚀 自定义代理
-  - RULE-SET,custom_proxy2_domain,🚀 自定义代理2
+  - RULE-SET,custom_proxy_domain,💰 金融服务
+  - RULE-SET,custom_proxy2_domain,🎬 休闲娱乐
 
 rule-providers:
   custom_direct_domain:
