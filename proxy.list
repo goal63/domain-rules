@@ -27,3 +27,7 @@ DOMAIN-SUFFIX,cloudflarewarp.com
 DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,cloudflarechallenge.com
 DOMAIN-SUFFIX,cdnjs.com
+
+# 指定 AI API 服务
+DOMAIN,integrate.api.nvidia.com
+DOMAIN,ollama.com
