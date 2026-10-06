@@ -28,6 +28,6 @@ DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,cloudflarechallenge.com
 DOMAIN-SUFFIX,cdnjs.com
 
-# 指定 AI API 服务
-DOMAIN,integrate.api.nvidia.com
-DOMAIN,ollama.com
+# NVIDIA 与 Ollama 服务（含所有子域名）
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,ollama.com
