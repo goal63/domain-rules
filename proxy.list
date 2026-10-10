@@ -31,3 +31,5 @@ DOMAIN-SUFFIX,cdnjs.com
 # NVIDIA 与 Ollama 服务（含所有子域名）
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,ollama.com
+
+DOMAIN-SUFFIX,workbuddy.ai
